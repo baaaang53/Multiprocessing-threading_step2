@@ -1,2 +1,4 @@
 
 Convolution과 ReLU함수 연산을 멀티프로세싱과 멀티스레딩 기법으로 수행하는 프로그램입니다.
+
+#program1 : Filter와 data를 입력 받아 convolution과 ReLU연산을 수행하는 기본 프로그램입니다. 후에 program2와 program3에서 이 코드를 사용하게 됩니다.
