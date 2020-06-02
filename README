@@ -9,5 +9,9 @@ Convolution과 ReLU함수 연산을 멀티프로세싱과 멀티스레딩 기법
             ./program1 <input
             ./program1 < ../input/osinput
             
-#program2 : 멀티프로세스 프로그램입니다. 
+            입력 파일의 모습은 다음과 같습니다.
+            
+            
+#program2 : 멀티프로세스 프로그램입니다.
+            
 #program3 : 멀티스레딩 프로그램입니다.
