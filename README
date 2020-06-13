@@ -1,15 +1,15 @@
 
-Convolution과 ReLU함수 연산을 멀티프로세싱과 멀티스레딩 기법으로 수행하는 프로그램입니다.
+Convolution과 ReLU함수 연산을 멀티프로세싱과 멀티스레딩 기법으로 수행하는 프로그램이다.
 
-#program1 : Filter와 data를 입력 받아 convolution과 ReLU연산을 수행하는 기본 프로그램입니다. 후에 program2와 program3에서 이 코드를 사용하게 됩니다.
-            입력은 파일입력이 아닌, 표준 입력을 통해 주어집니다.
+#program1 : Filter와 data를 입력 받아 convolution과 ReLU연산을 수행하는 기본 프로그램이다. 후에 program2와 program3에서 이 코드를 사용하게 된다.
+            입력은 파일입력이 아닌, 표준 입력을 통해 주어진다. 
             
             입력예시)
             ./program1 <input.txt
             ./program1 <input
             ./program1 < ../input/osinput
             
-            입력 파일의 모습은 다음과 같습니다.
+            입력 파일의 모습은 다음과 같다.
             2 4 5                   // 필터갯수, 각 필터의 행과 열
             -1 1 2 3 -2
             -4 2 3 5 1
